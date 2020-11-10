@@ -1,0 +1,8 @@
+.canvas{
+    /* height: 600px;
+    width: 1000px; */
+    z-index: -1;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
